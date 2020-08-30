@@ -14,9 +14,3 @@ SEO in React
 
 we will create a PWA with declarative routing using react-router that supports SSR and therefore is loaded from the server rather than the browser. Also, the application is optimized for search engines using React Helmet.
 
-
-Run this project steps
-1. npm install or yarn
-2. npm run build or yarn build
-3. npm run ssr or yarn ssr
-4. open browser localhost:8080
